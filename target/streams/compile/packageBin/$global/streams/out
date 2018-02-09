@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/scala-slick1_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/classes/UserRepositoryComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRespositorySlick$UserRepositoryImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/classes/UserRespositorySlick$UserRepositoryImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRespositorySlick.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/classes/UserRespositorySlick.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Configuration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/classes/Configuration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryComponent$UserRepository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/classes/UserRepositoryComponent$UserRepository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sulabh/IdeaProjects/scala-slick1/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
